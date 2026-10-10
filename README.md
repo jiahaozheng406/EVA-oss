@@ -2,6 +2,8 @@
 
 ### Embodied Vision-Language-Action Robot System
 
+[**Live Demo**](https://jiahaozheng406.github.io/EVA-oss/) · [**Jiahao Zheng**](https://jiahaozheng406.github.io)
+
 **EVA** is a collaborative embodied-AI project by **[Jiahao Zheng](https://jiahaozheng406.github.io)** and **[Liyao Wu](https://github.com/xxraincandyxx)**, exploring **vision-language-action (VLA) models, robotic manipulation, perception, motion control, and efficient edge deployment** for six-DoF robotic systems.
 
 This repository is **Jiahao Zheng's research fork and development workspace** for EVA. It preserves the original project history and implementation while serving as a basis for continued research on **3D spatial perception, embodied intelligence, and Real2Sim/Sim2Real robotic learning**.
